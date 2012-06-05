@@ -1,0 +1,3 @@
+The "Vary" header was added to tell browsers that the cached response
+ must be revalidated when the "Origin" header value differs from the
+ last request.
